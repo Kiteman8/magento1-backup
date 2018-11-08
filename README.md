@@ -3,9 +3,9 @@ Backup Script Magento 1. Backups Database and Magento Rootfolder
 
 FEATURES
 
-timestamp of backup
-reads db params from local.xml of defined magento root
-copies to backup directory _backups
+- timestamp of backup
+- reads db params from local.xml of defined magento root
+- copies to backup directory _backups
 
 USAGE
 
